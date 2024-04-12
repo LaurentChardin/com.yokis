@@ -1,0 +1,34 @@
+{
+  "id": "com.yokis",
+  "name": {
+    "en": "Yokis Up",
+    "fr": "Yokis Up"
+  },
+  "description": {
+    "en": "Urmet with Yokis, a new range of zigbee devices for home",
+    "fr": "Urmet avec Yokis, une nouvelle gamme de produits zigbee pour la maison"
+  },
+  "category": [
+    "lights"
+  ],
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "brandColor": "#0b579e",
+  "sdk": 3,
+  "author": {
+    "name": "Laurent Chardin",
+    "email": "laurent@chardin.org"
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Laurent Chardin",
+        "email": "laurent@chardin.org"
+      }
+    ]
+  },
+  "images": {
+    "large": "/assets/images/500x350.jpg",
+    "small": "/assets/images/250x175.jpg"
+  }
+}
